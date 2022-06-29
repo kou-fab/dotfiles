@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kou@fab.pasona.tech
+	name = kou-fab
