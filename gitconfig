@@ -54,4 +54,10 @@
   defaultBranch = master
 [user]
 	email = kou@fab.pasona.tech
-	name = kou
+	name = kou-fab
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
